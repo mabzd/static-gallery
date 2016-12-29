@@ -1,0 +1,268 @@
+[
+    {
+        "number": 1,
+        "title": "Dęby",
+        "category": 1,
+        "width": 73,
+        "height": 60
+    },
+    {
+        "number": 2,
+        "title": "Śrem - widok z łódkami",
+        "category": 1,
+        "width": 73,
+        "height": 54
+    },
+    {
+        "number": 3,
+        "title": "Bagno",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 4,
+        "title": "Zima - droga w górach",
+        "category": 1,
+        "width": 65,
+        "height": 50
+    },
+    {
+        "number": 5,
+        "title": "Brzozowy las",
+        "category": 1,
+        "width": 65,
+        "height": 60
+    },
+    {
+        "number": 6,
+        "title": "Zamek w Kórniku",
+        "category": 1,
+        "width": 60,
+        "height": 50
+    },
+    {
+        "number": 7,
+        "title": "Łódki na jeziorze",
+        "category": 1,
+        "width": 60,
+        "height": 50
+    },
+    {
+        "number": 8,
+        "title": "Łąka z kaczeńcami",
+        "category": 1,
+        "width": 50,
+        "height": 65
+    },
+    {
+        "number": 9,
+        "title": "Przydrożne wierzby",
+        "category": 1,
+        "width": 70,
+        "height": 50
+    },
+    {
+        "number": 10,
+        "title": "Martwa natura z lampą naftową",
+        "category": 1,
+        "width": 60,
+        "height": 50
+    },
+    {
+        "number": 11,
+        "title": "Domek szwajcarski na Wyspie Edwarda w Zaniemyślu",
+        "category": 1,
+        "width": 73,
+        "height": 54
+    },
+    {
+        "number": 12,
+        "title": "Zimowy pejzaż z rzeką",
+        "category": 1,
+        "width": 65,
+        "height": 50
+    },
+    {
+        "number": 13,
+        "title": "Wyspa Edwarda w Zaniemyślu",
+        "category": 1,
+        "width": 73,
+        "height": 54
+    },
+    {
+        "number": 14,
+        "title": "Błotnista droga",
+        "category": 1,
+        "width": 61,
+        "height": 50
+    },
+    {
+        "number": 15,
+        "title": "Bukiet kwiatów",
+        "category": 1,
+        "width": 54,
+        "height": 65
+    },
+    {
+        "number": 16,
+        "title": "Śrem",
+        "category": 1,
+        "width": 73,
+        "height": 54
+    },
+    {
+        "number": 17,
+        "title": "Pejzaż z czerwonymi drzewami",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 18,
+        "title": "Dęby rogalińskie",
+        "category": 1,
+        "width": 65,
+        "height": 50
+    },
+    {
+        "number": 19,
+        "title": "Powrót z polowania",
+        "category": 1,
+        "width": 50,
+        "height": 60
+    },
+    {
+        "number": 20,
+        "title": "Zaniemyśl - kościół NMP",
+        "category": 1,
+        "width": 54,
+        "height": 73
+    },
+    {
+        "number": 21,
+        "title": "Dwór Andrzejówka w Mechlinie",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 22,
+        "title": "Martwa natura z owocami",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 23,
+        "title": "Dolina Krimml w Austrii",
+        "category": 1,
+        "width": 100,
+        "height": 80
+    },
+    {
+        "number": 24,
+        "title": "Łąka z dmuchawcami",
+        "category": 1,
+        "width": 70,
+        "height": 70
+    },
+    {
+        "number": 25,
+        "title": "Martwa natura z dyniami",
+        "category": 1,
+        "width": 54,
+        "height": 65
+    },
+    {
+        "number": 26,
+        "title": "Martwa natura z haftowaną serwetą",
+        "category": 1,
+        "width": 73,
+        "height": 54
+    },
+    {
+        "number": 27,
+        "title": "Żółty garbus",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 28,
+        "title": "Biały Gościniec - dawna przeprawa przez Wartę",
+        "category": 1,
+        "width": 65,
+        "height": 50
+    },
+    {
+        "number": 29,
+        "title": "Piwonie w wazonie",
+        "category": 1,
+        "width": 54,
+        "height": 65
+    },
+    {
+        "number": 30,
+        "title": "Wyspa Edwarda w Zaniemyślu z łodziami",
+        "category": 1,
+        "width": 61,
+        "height": 46
+    },
+    {
+        "number": 31,
+        "title": "Bukiet słoneczników",
+        "category": 1,
+        "width": 50,
+        "height": 60
+    },
+    {
+        "number": 32,
+        "title": "Białe piwonie w wazonie",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 33,
+        "title": "Morze o zachodzie słońca",
+        "category": 1,
+        "width": 70,
+        "height": 50
+    },
+    {
+        "number": 34,
+        "title": "Letni pejzaż z wiatrakami",
+        "category": 1,
+        "width": 65,
+        "height": 50
+    },
+    {
+        "number": 35,
+        "title": "Kazimierz nad Wisłą",
+        "category": 1,
+        "width": 61,
+        "height": 50
+    },
+    {
+        "number": 36,
+        "title": "Wieczorny pejzaż",
+        "category": 1,
+        "width": 65,
+        "height": 54
+    },
+    {
+        "number": 37,
+        "title": "Leśny pejzaż zimą",
+        "category": 1,
+        "width": 80,
+        "height": 50
+    },
+    {
+        "number": 38,
+        "title": "Bzy w wazonie",
+        "category": 1,
+        "width": 60,
+        "height": 70
+    }
+]

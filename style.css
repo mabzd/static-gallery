@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+html, body {
+    margin: 0;
+    width: 100%;
+    background-color: #222222;
+    font-family: 'Lora', serif;
+    color: #b9b6a0;
+}
+
+header {
+    padding-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.15), transparent);
+}
+
+header h1 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 60px;
+}
+
+header h2 {
+    margin: 0;
+    color: #c7c7c7;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.masonry {
+    column-count: 3;
+    width: 1400px;
+    margin: 0 auto;
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+    .masonry {
+        column-count: 1;
+        width: 450px;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    .masonry {
+        column-count: 2;
+        width: 920px;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1400px) {
+    .masonry {
+        column-count: 3;
+        width: 1400px;
+    }
+}
+
+.tile {
+    width: 450px;
+    margin: 10px;
+    display: inline-block;
+    position: relative;
+    background-color: black;
+    box-shadow: 0px 0px 10px 0px black;
+}
+
+.text-tile {
+    width: 410px;
+    text-align: center;
+    color: #909090;
+    padding: 20px;
+}
+
+.text-tile ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.img-tile .label {
+    width: 430px;
+    padding: 0 10px 10px 10px;
+    position: absolute;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: right;
+}
+
+.img-tile .description {
+    color: #c7c7c7;
+}
+
+.img-tile:hover .label {
+    background-color: rgba(0, 0, 0, 0.8);
+    transition: 0.3s;
+}
+
+.img-tile:hover img {
+    filter: brightness(80%);
+}
+
+.img-tile h3 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.menu {
+    background-color: black;
+}
+
+footer {
+    padding: 60px;
+    text-align: center;
+    color: #525252;
+}
