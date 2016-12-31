@@ -30,6 +30,8 @@ header h2 {
 
 .masonry {
     column-count: 3;
+    -moz-column-count: 3;
+    -webkit-column-count: 3;
     width: 1400px;
     margin: 0 auto;
 }
@@ -38,6 +40,8 @@ header h2 {
 @media only screen and (min-width : 480px) {
     .masonry {
         column-count: 1;
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
         width: 450px;
     }
 }
@@ -46,6 +50,8 @@ header h2 {
 @media only screen and (min-width : 992px) {
     .masonry {
         column-count: 2;
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
         width: 920px;
     }
 }
@@ -54,6 +60,8 @@ header h2 {
 @media only screen and (min-width : 1400px) {
     .masonry {
         column-count: 3;
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
         width: 1400px;
     }
 }
