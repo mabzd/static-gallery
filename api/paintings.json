@@ -264,5 +264,26 @@
         "category": 1,
         "width": 60,
         "height": 70
+    },
+    {
+        "number": 39,
+        "title": "Dworek w Koszutach",
+        "category": 1,
+        "width": 73,
+        "height": 60
+    },
+    {
+        "number": 40,
+        "title": "Rzeka zimą",
+        "category": 1,
+        "width": 50,
+        "height": 65
+    },
+    {
+        "number": 41,
+        "title": "Lato w ogrodzie",
+        "category": 1,
+        "width": 65,
+        "height": 50
     }
 ]

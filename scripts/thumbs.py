@@ -12,10 +12,11 @@ def PIL_thumb(root, file):
     im.save(os.path.join(root, 'thumb', file.lower()), "JPEG")
 
 def process_files(path):
+    print_immediate('processing directory ' + path)
     excludedDirs = ['thumb']
     for root, dirs, files in os.walk(path):
         dirs[:] = [d for d in dirs if d not in excludedDirs]
-        files[:] = [f for f in files if f.endswith('.JPG')]
+        files[:] = [f for f in files if f.endswith(('.jpg', '.JPG'))]
         for file in files:
             print_immediate('Processing file ' + file)
             PIL_thumb(root, file)
